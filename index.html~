@@ -6,7 +6,6 @@
     <link rel="stylesheet" type="text/css" href="/css/index.css" media="all" charset="utf-8" />
   </head>
   <body>
-    <h1>Тестовая страничка на гитхабе</h1>
-    <p>Будет постепенно обновляться и дополняться.</p>
+    <p>Тестовая страничка на гитхабе. Будет постепенно обновлятся.</p>
   </body> 
 </html>
